@@ -18,3 +18,5 @@ const myFunc2: FwithRetVoid = () => {
     // return "hi";     // Works
     // return undefined;    // Works
 }
+
+export {};

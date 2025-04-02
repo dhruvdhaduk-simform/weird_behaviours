@@ -17,3 +17,4 @@ type B1 = _Exclude<A, X>;   // Works
 type B2 = A extends X ? never : A;      // Doesn't work
 
 
+export {};
